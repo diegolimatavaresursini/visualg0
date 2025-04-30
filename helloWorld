@@ -1,0 +1,9 @@
+algoritmo "Hello World"
+var a: inteiro
+var str: caractere
+inicio
+a <- 2025
+str <- "Diego Developer"
+   escreval(" Hello, World!", a)
+   escreval("Desenvolvido por ", str)
+fimalgoritmo
